@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 26, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Andrew Ingram)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we got practice using jquery. We learned how it can be used to make programming easier.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aingram1999.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The most important thing I learned was the beginning steps to jquery.
+2. I also learned about /* global $ */.
+3. The last thing I remember was how to structure jquery methods and statements.
 

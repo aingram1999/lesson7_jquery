@@ -1,0 +1,1 @@
+I used $(event.currentTarget).next().animate( {height: 'toggle'}, "slow") in my extra credit assignmnet. The next() method allows you to search for elements and construct a new jquery. The .animate performs a custom animation. I also change the height property.
